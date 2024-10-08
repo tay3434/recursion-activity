@@ -11,7 +11,7 @@ to give you more practice working with the terminal and git.
 
 1. clone this repo
 2. implement the `countDownThenUp` method (follow along with me in class)
-2. implement the `bunnies` method and write jUnit tests for this method
+2. implement the `bunnyEars` method and write jUnit tests for this method
 
 ## Handin instructions:
 
