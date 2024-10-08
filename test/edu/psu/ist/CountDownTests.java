@@ -12,10 +12,7 @@ public final class CountDownTests {
 
     // NOTE on testing countDownThenUp:
     // it's a little trickier to write jUnit tests for
-    // methods that return void -- how are you going
-    // to test printing to the screen is ok?
-    //
-    // so for now, you can just test the countUpThenDown method by 
-    // running it in the main and printing it to the screen.
+    // methods that return void -- so just print the 
+    // answer to screen in a main to test this one
 
 }
