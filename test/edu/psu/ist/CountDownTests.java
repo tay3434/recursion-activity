@@ -15,8 +15,7 @@ public final class CountDownTests {
     // methods that return void -- how are you going
     // to test printing to the screen is ok?
     //
-    // so for now, just check visually when the method is
-    // run in a main that your output matches the sample output given
-    // above the method
+    // so for now, you can just test the countUpThenDown method by 
+    // running it in the main and printing it to the screen.
 
 }
