@@ -5,7 +5,7 @@ package edu.psu.ist;
 //  just exports static methods)
 // so here the outermost CountDown class
 // encapsulates/holds-together two static
-// methods: downThenUp and bunnyEars.
+// methods: downThenUp and countBunnies.
 public final class CountDown {
 
     /**
@@ -48,7 +48,6 @@ public final class CountDown {
      */
     public static int bunnyEars(int n) {
         // "method stub"
-        // this one is extra (not graded)
         return 0;
     }
 }
