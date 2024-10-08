@@ -2,9 +2,10 @@ package edu.psu.ist;
 
 // no need to extend class CountDown
 // (this class won't even have fields ..
-//  just exports a single static method)
-// so we say the CountDown class encapsulates/holds-together
-// a static method, downThenUp, and the bunny ears problem.
+//  just exports static methods)
+// so here the outermost CountDown class
+// encapsulates/holds-together two static
+// methods: downThenUp and bunnyEars.
 public final class CountDown {
 
     /**
