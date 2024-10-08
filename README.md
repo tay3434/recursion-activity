@@ -9,17 +9,14 @@ to give you more practice working with the terminal and git.
 
 ## Steps:
 
-1. accept the assignment: M05-ACT02 on canvas
+1. clone this repo
 2. follow along with the recording in M05-ACT02 on canvas,
    complete the `countDownThenUp` as done in the video.
-2b. (optional: implement and write jUnit tests for the 
-     bunny ears method)
+2. implement and write jUnit tests for the 
+     bunny ears method
 
 ## Handin instructions:
 
-1. while cd'd into the activity directory, commit your work by typing:
-`git commit -am "<some msg>"`
-   (some msg is a short description of the commit you come up with)
-2. do a: `git push origin main` by the due date.
+1. you will submit a screenshot on canvas of both your `CountDown` class and your junit test class
 
 
