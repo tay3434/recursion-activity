@@ -13,7 +13,7 @@ to give you more practice working with the terminal and git.
 2. implement the `countDownThenUp` method (follow along with me in class)
 2. implement the `bunnyEars` method and write jUnit tests for this method
 
-## Handin instructions:
+## Handin:
 
 1. you will submit a screenshot on canvas of both your `CountDown` class and your junit test class
 
